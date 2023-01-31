@@ -1,3 +1,33 @@
-c3d 1-001.dcm 1-002.dcm 1-003.dcm 1-004.dcm 1-005.dcm 1-006.dcm 1-007.dcm 1-008.dcm 1-009.dcm  1-010.dcm 1-011.dcm 1-012.dcm 1-013.dcm 1-014.dcm 1-015.dcm 1-016.dcm 1-017.dcm 1-018.dcm 1-019.dcm 1-020.dcm 1-021.dcm 1-022.dcm 1-023.dcm 1-024.dcm 1-025.dcm 1-026.dcm 1-027.dcm 1-028.dcm 1-029.dcm 1-030.dcm 1-031.dcm 1-032.dcm 1-033.dcm 1-034.dcm 1-035.dcm 1-036.dcm 1-037.dcm 1-038.dcm 1-039.dcm 1-040.dcm 1-041.dcm 1-042.dcm 1-043.dcm 1-044.dcm 1-045.dcm 1-046.dcm 1-047.dcm 1-048.dcm 1-049.dcm 1-050.dcm 1-051.dcm 1-052.dcm 1-053.dcm 1-054.dcm 1-055.dcm 1-056.dcm 1-057.dcm 1-058.dcm 1-059.dcm 1-060.dcm 1-061.dcm 1-062.dcm 1-063.dcm 1-064.dcm 1-065.dcm 1-066.dcm 1-067.dcm 1-068.dcm 1-069.dcm 1-070.dcm 1-071.dcm 1-072.dcm 1-073.dcm 1-074.dcm 1-075.dcm 1-076.dcm 1-077.dcm 1-078.dcm 1-079.dcm 1-080.dcm 1-081.dcm 1-082.dcm 1-083.dcm 1-084.dcm 1-085.dcm 1-086.dcm 1-087.dcm 1-088.dcm 1-089.dcm 1-090.dcm 1-091.dcm 1-092.dcm 1-093.dcm 1-094.dcm 1-095.dcm 1-096.dcm 1-097.dcm 1-098.dcm 1-099.dcm 1-100.dcm 1-101.dcm 1-102.dcm 1-103.dcm 1-104.dcm 1-105.dcm 1-106.dcm 1-107.dcm 1-108.dcm 1-109.dcm 1-110.dcm 1-111.dcm 1-112.dcm 1-113.dcm 1-114.dcm 1-115.dcm 1-116.dcm 1-117.dcm 1-118.dcm 1-119.dcm 1-120.dcm 1-121.dcm 1-122.dcm 1-123.dcm 1-124.dcm 1-125.dcm 1-126.dcm 1-127.dcm 1-128.dcm -o 1.nii
+DicomSeriesReadImageWrite2  '7.000000-twist20sdynTRA h20 ex B17TT49.6s-21711/'  dce.000.nii.gz
+DicomSeriesReadImageWrite2  '8.000000-twist20sdynTRA h20 ex B17TT69.7s-92875/'  dce.001.nii.gz
+DicomSeriesReadImageWrite2 '11.000000-twist20sdynTRA h20 ex B17TT89.9s-78713/'  dce.002.nii.gz
+DicomSeriesReadImageWrite2 '13.000000-twist20sdynTRA h20 ex B17TT110.0s-48024/' dce.003.nii.gz
+DicomSeriesReadImageWrite2 '15.000000-twist20sdynTRA h20 ex B17TT130.2s-71554/' dce.004.nii.gz
+DicomSeriesReadImageWrite2 '17.000000-twist20sdynTRA h20 ex B17TT150.4s-31985/' dce.005.nii.gz
+DicomSeriesReadImageWrite2 '19.000000-twist20sdynTRA h20 ex B17TT170.5s-80258/' dce.006.nii.gz
+DicomSeriesReadImageWrite2 '21.000000-twist20sdynTRA h20 ex B17TT190.7s-83900/' dce.007.nii.gz
+DicomSeriesReadImageWrite2 '23.000000-twist20sdynTRA h20 ex B17TT210.8s-64343/' dce.008.nii.gz
+DicomSeriesReadImageWrite2 '25.000000-twist20sdynTRA h20 ex B17TT231.0s-01775/' dce.009.nii.gz
+DicomSeriesReadImageWrite2 '27.000000-twist20sdynTRA h20 ex B17TT251.2s-72218/' dce.010.nii.gz
+DicomSeriesReadImageWrite2 '29.000000-twist20sdynTRA h20 ex B17TT271.3s-67791/' dce.011.nii.gz
+DicomSeriesReadImageWrite2 '31.000000-twist20sdynTRA h20 ex B17TT291.5s-91253/' dce.012.nii.gz
+DicomSeriesReadImageWrite2 '33.000000-twist20sdynTRA h20 ex B17TT311.7s-33563/' dce.013.nii.gz
+DicomSeriesReadImageWrite2 '35.000000-twist20sdynTRA h20 ex B17TT331.8s-66185/' dce.014.nii.gz
+DicomSeriesReadImageWrite2 '37.000000-twist20sdynTRA h20 ex B17TT352.0s-55651/' dce.015.nii.gz
+DicomSeriesReadImageWrite2 '39.000000-twist20sdynTRA h20 ex B17TT372.1s-04246/' dce.016.nii.gz
+DicomSeriesReadImageWrite2 '41.000000-twist20sdynTRA h20 ex B17TT392.3s-74798/' dce.017.nii.gz
+DicomSeriesReadImageWrite2 '43.000000-twist20sdynTRA h20 ex B17TT412.5s-39090/' dce.018.nii.gz
+DicomSeriesReadImageWrite2 '45.000000-twist20sdynTRA h20 ex B17TT432.6s-39440/' dce.019.nii.gz
+DicomSeriesReadImageWrite2 '47.000000-twist20sdynTRA h20 ex B17TT452.8s-68113/' dce.020.nii.gz
+DicomSeriesReadImageWrite2 '49.000000-twist20sdynTRA h20 ex B17TT473.0s-21140/' dce.021.nii.gz
+DicomSeriesReadImageWrite2 '51.000000-twist20sdynTRA h20 ex B17TT493.1s-78047/' dce.022.nii.gz
+DicomSeriesReadImageWrite2 '53.000000-twist20sdynTRA h20 ex B17TT513.3s-76002/' dce.023.nii.gz
+DicomSeriesReadImageWrite2 '55.000000-twist20sdynTRA h20 ex B17TT533.4s-25100/' dce.024.nii.gz
+DicomSeriesReadImageWrite2 '57.000000-twist20sdynTRA h20 ex B17TT553.6s-37392/' dce.025.nii.gz
+DicomSeriesReadImageWrite2 '59.000000-twist20sdynTRA h20 ex B17TT573.8s-03536/' dce.026.nii.gz
+DicomSeriesReadImageWrite2 '61.000000-twist20sdynTRA h20 ex B17TT593.9s-54173/' dce.027.nii.gz
 
-c4d 1.nii 2.nii 3.nii 4.nii 5.nii 6.nii 7.nii 8.nii 9.nii 10.nii 11.nii 12.nii 13.nii 14.nii 15.nii 16.nii 17.nii 18.nii 19.nii 20.nii 21.nii 22.nii 23.nii 24.nii 25.nii 26.nii 27.nii 28.nii 29.nii -o total1.nrrd
+
+c3d -verbose dce.???.nii.gz -type short -omc dcedata.nrrd
+
+
